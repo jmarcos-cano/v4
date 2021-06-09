@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://marcoscano.dev/sitemap.xml
+Host: https://marcoscano.dev
