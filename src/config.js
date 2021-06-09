@@ -1,26 +1,19 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'jmarcos.cano@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/jmarcos-cano',
     },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
+
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/Marcos_Kno',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://www.linkedin.com/in/%F0%9F%90%B3-marcos-cano-804a1787/',
     },
   ],
 
@@ -44,8 +37,10 @@ module.exports = {
   ],
 
   colors: {
-    green: '#64ffda',
-    navy: '#0a192f',
+    // green: '#64ffda',
+    green: '#f0b27a',
+    orange: '#F0B27A',
+    navy: '#566573',
     darkNavy: '#020c1b',
   },
 
